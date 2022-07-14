@@ -1,0 +1,32 @@
+.image {
+    display: flex;
+    width: 450px;
+    height: auto;
+
+}
+.image1 {
+    max-width: 100%;
+    height: auto;
+
+}
+.text {
+    font-size: 12pt;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(44, 42, 42);
+    flex-direction:row;
+    flex-shrink: 0;
+    margin: 5px;
+    width: 500px;
+}
+.image_text {
+    display:flex;
+    width: 500px;
+    height: auto;
+
+
+}
+.hyper_link {
+    display:flex;
+    width: 500px;
+    height:auto;
+}
